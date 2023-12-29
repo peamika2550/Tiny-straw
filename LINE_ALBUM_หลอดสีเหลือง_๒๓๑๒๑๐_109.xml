@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tiny straw</folder>
+	<filename>LINE_ALBUM_หลอดสีเหลือง_๒๓๑๒๑๐_109.jpg</filename>
+	<path>C:\Users\ASUS\Desktop\research\garbage\Tiny straw\LINE_ALBUM_หลอดสีเหลือง_๒๓๑๒๑๐_109.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tiny straw (RECYCLE WASTE) [Yellow trash can]</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>455</ymin>
+			<xmax>654</xmax>
+			<ymax>819</ymax>
+		</bndbox>
+	</object>
+</annotation>
